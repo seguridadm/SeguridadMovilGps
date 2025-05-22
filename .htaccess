@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^seguridadmovilgps\.com\.mx$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.seguridadmovilgps\.com\.mx$
+RewriteRule ^index\.html$ "http\:\/\/www\.seguridadmovilgps\.com\.mx\/" [R=301,L]
+

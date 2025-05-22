@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63032447-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<script language='JavaScript'>
+
+//Bloquear Tecla CTRL
+
+function checartecla (evt)
+
+{if (evt.keyCode == &#39;17&#39;)
+
+{alert(&quot;Comando Desactivado&quot;)
+
+return false}
+
+return true}
+
+</script>
+
+
+
+<head>
+<title>Seguridad movil GPS</title>
+<Meta Name="Keywords" Content="Localizadores gps, Instalacion a domicilio, rastreadores satelitales, venta de equipos , plataforma de rastreo, instalaciones a domicilio">
+<META NAME="description" CONTENT="Servicio de localizacion satelital gps y rastreo de vehiculos en tiempo real, asesorias de forma personal , capacitacion e instalacion a domicilio">
+
+
+
+
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?2xle4r0nfXmENchur4KhE9hkTV153SZ3";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<script src="js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="js/cufon-yui.js" type="text/javascript"></script>
+<script src="js/cufon-replace.js" type="text/javascript"></script>
+<script src="js/Myriad_Pro_400.font.js" type="text/javascript"></script>
+<script src="js/Myriad_Pro_600.font.js" type="text/javascript"></script>
+<script src="js/NewsGoth_BT_400.font.js" type="text/javascript"></script>
+<script src="js/NewsGoth_BT_700.font.js" type="text/javascript"></script>
+<script src="js/NewsGoth_Dm_BT_400.font.js" type="text/javascript"></script>
+<script src="js/script.js" type="text/javascript"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="js/ie_png.js"></script>
+<script type="text/javascript">ie_png.fix('.png, #header .row-2 ul li a, .extra img, #search-form a, #search-form a em, #login-form .field1 a, #login-form .field1 a em, #login-form .field1 a b');</script>
+<link href="css/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body oncontextmenu="return false" onkeydown="return false" id="page2">
+<!-- START PAGE SOURCE -->
+<br><br>
+<div id="main">
+  <div id="header">
+  <div class="fleft"><a href="#"><img src="images/logo.png"  /></a></div>
+    <div class="row-1">
+      <div class="fright">
+	  
+        <ul>
+          <li><a href="#"><img src="images/icon1-act.gif" alt="Vehiculos gps" /></a></li>
+          <li><a href="mailto:ventas@seguridadmovilgps.com.mx"> <img src="images/icon2.gif" alt="plataforma de rastreo" /></a></li>
+          <li><a href="#"><img src="images/tw.png" alt="localizadores satelitales" /></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row-2">
+      <div class="left">
+         <ul>
+          <li><a href="index.html" ><span>Inicio</span></a></li>
+          <li><a href="about-us.html"><span>Nosotros</span></a></li>
+          <li><a href="articles.html"><span>Servicios</span></a></li>
+          <li><a href="contact-us.php"><span>Contacto</span></a></li>
+          <li class="last"><a href="sitemap.html" class="active"><span>Plataforma</span></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row-3">
+      <div class="inside">
+        <h2>Plataforma para <b>sus vehiculos</b></h2>
+        <p>Todos nuestros servicios de instalación cuentan con plataforma de rastreo.</p>
+        <form action="#" id="search-form">
+          <fieldset>
+            <label>Buscar:</label>
+            <input type="text" />
+            <a href="#" class="link1"><em><b>ir!</b></em></a>
+          </fieldset>
+        </form>
+      </div>
+    </div>
+    <div class="extra"><img src="images/flotaspc1.png" alt="" /></div>
+  </div>
+  <div id="content">
+    <div class="box">
+      <div class="border-bot">
+        <div class="right-bot-corner">
+          <div class="left-bot-corner">
+            <div class="inner">
+              <div class="box1 alt">
+                <div class="inner">
+                  <h4><b>Plataforma </b>de Rastreo </h4>
+                  <p class="p0">El acceso es a través de la web, sin necesidad de un software adicional, desde su computadora o en formato para Smartphone , celular , Tablet,Ipad etc. fácil de usar y operar con nuestro respaldo del área de soporte. Usted podrá solicitar claves de acceso de acuerdo a sus necesidades , podra personalizar sus claves de acceso. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="indent">
+      <div class="wrapper">
+        <div class="col-1">
+          <p>Nuestro sofisticado sistema avanzado de monitoreo en tiempo real y gestión de flota genera reportes operativos y estadísticos de acuerdo a sus necesidades , todos nuestros productos cuentan con los siguientes servicios:<br><br>
+		  
+		  Si gusta , también contamos con camaras de seguridad para cualquier tipo de vehiculos ..pregunte por su cotización.
+		  <br>
+		  
+		  
+		  
+<div class="img-box1"><img src="images/videos.jpg" alt="monitoreo vehicular"  width="600" height="300"/></div>
+
+
+<br><br><br><br>
+
+		  
+		  
+		  
+		  
+		  <b>Localización inmediata:</b> El sistema permite la localización inmediata del GPS Vehicular asignado y su visualización en el mapa las 24 horas del día.
+
+
+
+
+<div class="img-box1"><img src="images/plata.png" alt="monitoreo vehicular"  width="600" height="300"/></div>
+
+
+
+
+
+
+<br><br><b>Reporte de Históricos:</b> Acceso ilimitado al sistema para solicitar los movimientos de la unidad vehicular, los cuales se establecen según la necesidad del cliente, el sistema permite solicitar información hasta por 3 meses atrás. Te permite conocer la ruta que siguió el vehículo en un periodo específico, velocidad promedio.<br><br>
+
+
+<b>Apagado de Motor:</b> Permite apagar la unidad vehicular mediante la plataforma de rastreo.<br><br>
+
+<b>Reporte de Eventos:</b> Acceso a reportes sobre variables monitoreadas de un vehículo, tales como: exceso de velocidad, violación de geocerca, motor apagado, así como alarmas detectadas como batería baja, botón de asistencia y baja comunicación.  también podra bajar archivos en excel para facilitar su impresión.<br><br>
+
+<b>Límite de Velocidad:</b> Se enviará una alerta al correo electrónico cada vez que el dispositivo de GPS Vehicular supere un límite de velocidad previamente establecido por el cliente.<br><br>
+
+
+
+<b>Batería de Respaldo:</b> En caso que exista una falla en la alimentación principal, ya sea eléctrica o intencional, el GPS Vehicular seguirá funcionando por tres dias aproximadamente y se reportará como alarma en el panel de eventos.<br><br>
+
+<b>Plataforma:</b> Acceso ilimitado a nuestro servicio web seguro las 24 horas del día los 365 días del año para poder ubicar sus unidades vehiculares.<br><br>
+
+<b>Geocerca:</b> El cliente podrá definir perímetros geográficos virtuales para saber la entrada y salida del vehículo en esas áreas.<br><br>
+
+<b>Soporte Técnico en Linea:</b> Nuestros ingenieros están siempre disponibles para resolver cualquier situación que se presente a nuestros clientes.<br><br>
+
+
+
+<b>Central de Monitoreo:</b> Contamos con una central de monitoreo que esta siempre alerta en caso de una emergencia brindando la ayuda necesaria al instante.<br><br>
+
+
+<b>Capacitación:</b> Contamos con una capacitación para el uso correcto del sistema
+		  
+	      </p>
+		  
+		 <h4><b>Distribuidores </b> Preguntas frecuentes </h4>		  <br><br>
+		  
+		 <b>Solo quieres contratar la plataforma?</b> <br><br>
+		  
+		  <p>Si tienes los equipos de rastreo? , pero no cuentas con plataforma? ..nosotros te rentamos la plataforma! preguntanos los costos.</p>
+		  
+		  
+		  <b>Quieres ser ditribuidor?</b><br><br>
+		  
+		   <p align="justify">Ofrecemos distintas alternativas para la comercialización de nuestros productos. Dependiendo del mercado y del perfil de la empresa o autónomo que desee distribuir, revender o representar nuestros productos y servicios ofreceremos distintas opciones con el objetivo de adecuarnos a cada uno de los nichos de mercado y ser más efectivos en la captación, mantenimiento y fidelización de nuestros clientes.
+Actualmente poseemos una red comercial compuesta por representantes, comerciales autónomos independientes, revendedores, distribuidores o simplemente referidores. Cada figura presenta ventajas dependiendo del tipo de actividad que actualmente desarrolle y puede ser más o menos efectiva. No dude en contactarnos para comentarnos de su proyecto y así encontrar la mejor alternativa comercial.</p>
+		  
+		  
+		  
+		  
+          <!--p class="p0">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque.</p-->
+        </div>
+        
+        <div class="col-2">
+          <div class="box2">
+            <div class="border-top">
+              <div class="left-top-corner">
+                <div class="right-top-corner">
+                  <div class="inner">
+                    <h4><b>Ultimas</b>Noticias</h4>
+                    <ul class="news">
+                      <li><a href="#">Abril 10, 2015</a>
+                        <p>Ford Fiesta 2008, recuperada en Tlaxcala.</p>
+                      </li>
+                      <li><a href="#">Febrero 22, 2015</a>
+                        <p>Vehículo recuperado NISSAN Pathfinder 2011, Chiapas,Altamirano.</p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+		  </div>
+		  
+		    <div class="col-2">
+          <div class="box2">
+            <div class="border-top">
+              <div class="left-top-corner">
+                <div class="right-top-corner">
+                  <div class="inner">
+                    <a href="http://121.37.60.19/" target="_blank"><h4><b>Plataforma</b></h4></a>
+                   <a href="http://121.37.60.19/" target="_blank"> <ul class="news">
+                      <li>
+                        <p> Entra a nuestra plataforma de rastreo ..Solo clientes  </p>
+                      </li>
+                      
+                    </ul>
+					</a>
+					
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+          <div class="box3">
+            <div class="right-bot-corner">
+              <div class="left-bot-corner">
+                <div class="inner">
+                  <h4><b></b></h4>
+                 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+  <div id="footer">
+    <div class="footer-nav">
+      <div class="left">
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Nosotros</a></li>
+          <li><a href="#">Servicio</a></li>
+          <li><a href="#">Contacto</a></li>
+          <li><a href="#">Plataforma</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footerlink">
+      <p class="lf">Copyright &copy; 2015 <a href="#">Seguridad móvil GPS</a> - All Rights Reserved</p>
+      <div style="clear:both;"></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript"> Cufon.now(); </script>
+<!-- END PAGE SOURCE -->
+</body>
+</html>

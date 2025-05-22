@@ -1,0 +1,211 @@
+[06-Apr-2015 18:11:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seguri18/public_html/envia.php on line 64
+[06-Apr-2015 18:14:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seguri18/public_html/envia.php on line 64
+[06-Apr-2015 19:20:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected '"<br /><br />"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/seguri18/public_html/recibe.php on line 20
+[06-Apr-2015 22:08:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seguri18/public_html/contact-us.php on line 140
+[06-Apr-2015 22:08:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seguri18/public_html/contact-us.php on line 140
+[06-Apr-2015 22:15:46 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/seguri18/public_html/contact-us.php on line 140
+[06-Apr-2015 22:22:16 America/Mexico_City] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home/seguri18/public_html/contact-us.php on line 131
+[06-Apr-2015 22:27:24 America/Mexico_City] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home/seguri18/public_html/contact-us.php on line 131
+[06-Apr-2015 22:32:13 America/Mexico_City] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home/seguri18/public_html/contact-us.php on line 131
+[06-Apr-2015 22:39:54 America/Mexico_City] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home/seguri18/public_html/contact-us.php on line 131
+[16-May-2015 13:20:49 America/Mexico_City] PHP Warning:  include_once(analyticstracking.php): failed to open stream: No such file or directory in /home/seguri18/public_html/contact-us.php on line 45
+[16-May-2015 13:20:49 America/Mexico_City] PHP Warning:  include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seguri18/public_html/contact-us.php on line 45
+[16-May-2015 17:58:03 America/Mexico_City] PHP Warning:  include_once(analyticstracking.php): failed to open stream: No such file or directory in /home/seguri18/public_html/contact-us.php on line 45
+[16-May-2015 17:58:03 America/Mexico_City] PHP Warning:  include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seguri18/public_html/contact-us.php on line 45
+[16-May-2015 17:59:06 America/Mexico_City] PHP Warning:  include_once(analyticstracking.php): failed to open stream: No such file or directory in /home/seguri18/public_html/contact-us.php on line 45
+[16-May-2015 17:59:06 America/Mexico_City] PHP Warning:  include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seguri18/public_html/contact-us.php on line 45
+[16-May-2015 18:05:52 America/Mexico_City] PHP Warning:  include_once(analyticstracking.php): failed to open stream: No such file or directory in /home/seguri18/public_html/contact-us.php on line 45
+[16-May-2015 18:05:52 America/Mexico_City] PHP Warning:  include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/seguri18/public_html/contact-us.php on line 45
+[26-May-2015 22:06:59 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 22:08:16 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 22:08:41 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 22:08:59 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 22:45:08 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 22:45:23 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 22:55:57 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 23:18:19 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 23:27:56 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 23:28:13 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 23:29:32 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 23:30:18 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 23:30:49 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 23:38:31 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[26-May-2015 23:40:16 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 00:01:05 America/Mexico_City] PHP Parse error:  syntax error, unexpected '<' in /home/seguri18/public_html/contact-us.php on line 179
+[27-May-2015 00:02:41 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:43:51 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:45:32 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:46:04 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:46:26 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:47:15 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:47:27 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:47:53 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:50:46 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:51:11 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 10:52:40 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:06:45 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:07:24 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:08:30 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:09:19 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:13:38 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:19:10 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:20:35 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:26:07 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:26:36 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:31:47 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:45:50 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'seguri18@localhost'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 11:48:16 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 12:08:51 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'user'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 37
+[27-May-2015 12:08:51 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 38
+[27-May-2015 12:08:51 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 12:10:32 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 37
+[27-May-2015 12:10:32 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 38
+[27-May-2015 12:10:32 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 12:11:43 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 37
+[27-May-2015 12:11:43 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 38
+[27-May-2015 12:11:43 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 12:15:12 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 37
+[27-May-2015 12:15:12 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 38
+[27-May-2015 12:15:12 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 12:35:00 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 37
+[27-May-2015 12:35:00 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 38
+[27-May-2015 12:35:00 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 12:40:07 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion_db.php on line 37
+[27-May-2015 12:40:07 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 38
+[27-May-2015 12:40:07 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 12:40:50 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 10
+[27-May-2015 12:46:00 America/Mexico_City] PHP Fatal error:  Call to undefined method mysqli::__contructor() in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 12:47:31 America/Mexico_City] PHP Fatal error:  Call to undefined method mysqli::__contructor() in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 12:48:23 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 12:48:23 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 12:53:00 America/Mexico_City] PHP Warning:  mysqli::connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 12:53:00 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 12:54:00 America/Mexico_City] PHP Fatal error:  Class 'mysql_connect' not found in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 12:56:35 America/Mexico_City] PHP Fatal error:  Class 'mysql_connect' not found in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 12:59:11 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 12:59:11 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 13:02:21 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 13:02:21 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:02:21 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 13:03:16 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 13:03:16 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:03:16 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 13:05:09 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 13:05:09 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:07:56 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 13:07:56 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:09:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'se' (T_STRING) in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:10:51 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 13:10:51 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:11:53 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 13:11:53 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:12:36 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 13:12:36 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:14:05 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 13:14:05 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 13:38:16 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:42:12 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:56:11 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:56:13 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:56:13 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:56:14 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:56:43 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:56:47 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:57:04 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:57:05 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:57:06 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 13:57:07 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:00:41 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:00:43 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:01:32 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:01:34 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:01:36 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:01:37 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:01:45 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:02:12 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:02:15 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:02:16 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:02:17 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:02:17 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:02:18 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:15 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:17 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:18 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:19 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:19 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:19 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:20 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:20 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:20 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:20 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:21 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:03:21 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 13
+[27-May-2015 15:04:15 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:04:17 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:06:10 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:06:13 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:06:25 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:06:26 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:06:27 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:06:29 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:07:00 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:07:01 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:07:02 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:07:02 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:07:04 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:07:12 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:18 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:20 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:21 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:21 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:22 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:22 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:22 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:23 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:56 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:57 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:58 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:09:59 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:00 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:00 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:00 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:01 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:01 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:01 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:01 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:02 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:02 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:02 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:03 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:03 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:04 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:04 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:04 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:05 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cris'@'localhost' (using password: NO) in /home/seguri18/public_html/conexion.php on line 14
+[27-May-2015 15:10:57 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 15:10:57 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 15:11:11 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/seguri18/public_html/conexion_db.php on line 25
+[27-May-2015 15:11:11 America/Mexico_City] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/seguri18/public_html/conexion_db.php on line 26
+[27-May-2015 15:14:07 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:16:11 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:18:25 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:18:36 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:21:25 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:23:03 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:24:29 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:26:52 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:26:57 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:29:25 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:31:58 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:32:03 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/seguri18/public_html/validaLogin.php on line 10
+[27-May-2015 15:34:15 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/seguri18/public_html/validaLogin.php on line 27
+[27-May-2015 15:35:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/seguri18/public_html/validaLogin.php on line 29
+[27-May-2015 15:35:57 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/seguri18/public_html/validaLogin.php on line 16
+[27-May-2015 15:38:06 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/seguri18/public_html/validaLogin.php on line 16
+[27-May-2015 15:41:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seguri18/public_html/conexion_db.php:23) in /home/seguri18/public_html/validaLogin.php on line 23
+[27-May-2015 15:42:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seguri18/public_html/conexion_db.php:23) in /home/seguri18/public_html/validaLogin.php on line 23
+[27-May-2015 16:01:26 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seguri18/public_html/conexion_db.php:23) in /home/seguri18/public_html/validaLogin.php on line 23
+[27-May-2015 18:21:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seguri18/public_html/usuario.php:6) in /home/seguri18/public_html/usuario.php on line 8
+[27-May-2015 18:24:23 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seguri18/public_html/usuario.php:6) in /home/seguri18/public_html/usuario.php on line 8
+[27-May-2015 18:25:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seguri18/public_html/usuario.php:6) in /home/seguri18/public_html/usuario.php on line 8
+[27-May-2015 18:34:02 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/seguri18/public_html/usuario.php on line 8

@@ -1,0 +1,442 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63032447-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+
+<!--<script language='JavaScript'>
+
+//Bloquear Tecla CTRL
+
+function checartecla (evt)
+
+{if (evt.keyCode == &#39;17&#39;)
+
+{alert(&quot;Comando Desactivado&quot;)
+
+return false}
+
+return true}
+
+</script-->
+
+
+
+<head>
+
+
+<style type='text/css'>
+#anuncio {
+position: absolute;
+border: 0px;
+padding: 2px;
+width: 300px;
+height: 80px;
+visibility: hidden;
+z-index: 100;
+top: 27px;
+left: 16px;
+}
+</style>
+
+
+
+
+
+<script type='text/javascript'>
+//<![CDATA[
+var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
+var startX = 750 //set x offset of bar in pixels
+var startY = 20 //set y offset of bar in pixels
+var verticalpos="fromtop" //enter "fromtop" or "frombottom"
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function closebar(){
+if (persistclose)
+document.cookie="remainclosed=1"
+document.getElementById("anuncio").style.visibility="hidden"
+}
+
+function staticbar(){
+barheight=document.getElementById("anuncio").offsetHeight
+var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+var d = document;
+function ml(id){
+var el=d.getElementById(id);
+if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+el.style.visibility="visible"
+if(d.layers)el.style=el;
+el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
+el.x = startX;
+if (verticalpos=="fromtop")
+el.y = startY;
+else{
+el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+el.y -= startY;
+}
+return el;
+}
+window.stayTopLeft=function(){
+if (verticalpos=="fromtop"){
+var pY = ns ? pageYOffset : iecompattest().scrollTop;
+ftlObj.y += (pY + startY - ftlObj.y)/8;
+}
+else{
+var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+ftlObj.y += (pY - startY - ftlObj.y)/8;
+}
+ftlObj.sP(ftlObj.x, ftlObj.y);
+setTimeout("stayTopLeft()", 10);
+}
+ftlObj = ml("anuncio");
+stayTopLeft();
+}
+if (window.addEventListener)
+window.addEventListener("load", staticbar, false)
+else if (window.attachEvent)
+window.attachEvent("onload", staticbar)
+else if (document.getElementById)
+window.onload=staticbar
+//]]>
+</script>
+
+
+
+
+
+
+<title>Seguridad movil GPS</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<Meta Name="Keywords" Content="Localizadores gps, Instalacion a domicilio, rastreadores satelitales, venta de equipos , plataforma de rastreo, instalaciones a domicilio">
+<META NAME="description" CONTENT="Servicio de localizacion satelital gps y rastreo de vehiculos en tiempo real, asesorias de forma personal , capacitacion e instalacion a domicilio">
+
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?2xle4r0nfXmENchur4KhE9hkTV153SZ3";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
+
+
+
+
+
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<script src="js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="js/cufon-yui.js" type="text/javascript"></script>
+<script src="js/cufon-replace.js" type="text/javascript"></script>
+<script src="js/Myriad_Pro_400.font.js" type="text/javascript"></script>
+<script src="js/Myriad_Pro_600.font.js" type="text/javascript"></script>
+<script src="js/NewsGoth_BT_400.font.js" type="text/javascript"></script>
+<script src="js/NewsGoth_BT_700.font.js" type="text/javascript"></script>
+<script src="js/NewsGoth_Dm_BT_400.font.js" type="text/javascript"></script>
+<script src="js/script.js" type="text/javascript"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="js/ie_png.js"></script>
+<script type="text/javascript">ie_png.fix('.png, #header .row-2 ul li a, .extra img, #search-form a, #search-form a em, #login-form .field1 a, #login-form .field1 a em, #login-form .field1 a b');</script>
+<link href="css/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body oncontextmenu="return false" onkeydown="return false" id="page4">
+<!-- START PAGE SOURCE -->
+
+<div id='anuncio'>
+<a href='Javascript:void' onClick='closebar(); return false'><img align='center' border='10' src='images/icono-cerrar.png'/></a><br />
+<a href="contact-us.php">   <img src='images/publi4.jpg' align='center' height=600 alt='Uber'/></a>
+</div>
+
+
+
+
+
+<br><br>
+<div id="main">
+  <div id="header">
+  <div class="fleft"><a href="#"><img src="images/logo.png"  /></a></div>
+    <div class="row-1">
+       <div class="fright">
+	  
+        <ul>
+         <li><a href="#"><img src="images/icon1-act.gif" alt="Vehiculos gps" /></a></li>
+          <li><a href="mailto:ventas@seguridadmovilgps.com.mx"><img src="images/icon2.gif" alt="plataforma de rastreo" /></a></li>
+          <li><a href="#"><img src="images/tw.png" alt="localizadores satelitales" /></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row-2">
+      <div class="left">
+         <ul>
+          <li><a href="index.html"><span>Inicio</span></a></li>
+          <li><a href="about-us.html"><span>Nosotros</span></a></li>
+          <li><a href="articles.html" class="active"><span>Servicios</span></a></li>
+          <li><a href="contact-us.php"><span>Contacto</span></a></li>
+          <li class="last"><a href="sitemap.html"><span>Plataforma</span></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row-3">
+      <div class="inside">
+        <h2>Transporte  <b>de pasajeros</b></h2>
+        <p>Instalación a domicilio y capacitación presencial,descuento para su flotilla de vehículos..</p>
+       
+      </div>
+    </div>
+    <div class="extra"><img src="images/toyota.png" alt="" /></div>
+  </div>
+  <div id="content">
+    <div class="box">
+      <div class="border-bot">
+        <div class="right-bot-corner">
+          <div class="left-bot-corner">
+            <div class="inner">
+              <div class="box1 alt">
+                <div class="inner">
+                  <h4><b>Servicios </b>y equipos</h4>
+                  <p class="p0">Contamos con los mejores equipos de rastreo del mercado y buscamos siempre estar a la vanguardia para ofrecerle a usted la más alta calidad en nuestros servicios.<br> Dispositivo de Localización Automática Vehicular (AVL) que combina un modem GSM/GPRS y un receptor de Posicionamiento Global por Satélite (GPS). Sus dimensiones tan reducidas permiten instalarlo de manera invisible en cualquier vehículo.
+
+Su ubicación puede ser monitoreada periódicamente a un servidor en tiempo real soportando una amplia variedad de reportes, entre ellos, alertas de emergencia, hábitos de manejo, traspasos de barreras geográficas, alerta de batería baja, posiciones periódicas de GPS y muchas otras características avanzadas de rastreo.
+
+			  			  
+				  
+				  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+      
+    <div class="indent">
+      <div class="wrapper">
+        <div class="col-1">
+		
+        
+        
+          <ul>
+      <li>
+        <h4><b>VideoLocaliza </b>camaras en tiempo real</h4>
+        <p align="justify"><img src="images/inter.png" alt="" height="150" width="240" align="left"/>Nuestra plataforma, se basa en un sistema de cámaras con GPS montadas sobre cualquier tipo de vehículo, las que transmite  video en tiempo real hacia el software que permite visualizar las imágenes en vivo desde un teléfono celular, una computadora o cualquier dispositivo electronico. <br />
+         -     </li>
+      <br><br><br><br><br><br>
+        
+        
+        
+        
+		
+        
+         <ul>
+      <li>
+        <h4><b>Nuestro servicio de </b>Rastreo Satelital</h4>
+        <p align="justify"><img src="images/plataforma2.png" alt="" height="150" width="240" align="left"/>Si usted ya cuanta con equipos de rastreo, podemos ofrecerle nuestra plataforma de rastreo a muy bajo costo. Usted podrá tener el control en todo momento ..alertas de velocidad , de desconexión , alertas de movimiento , cercas perimetrales , encendido y apagado de la unidad desde la plataforma , así como reproducir el movimiento de la unidad hasta seis meses guardada en nuestro servidor. <br />
+         -     </li>
+      <br><br>
+        
+        
+        
+        
+        
+		  
+		   <ul>
+      <li>
+        <h4><b>Descuento </b>Flotillas de Taxis y Aseguradoras</h4>
+        <p align="justify"><img src="images/taxi.png" alt="" height="150" width="240" align="left"/>Tenga mayor certidumbre de donde se encuentran sus unidades y si no se ha realizado el pago correspondiente podrá boquear la unidad. <br />
+          Además si ha excedido el límite de velocidad o traspasado los límites de la zona en la que tiene permitido circular podrá saberlo y tomar acciones.Evite que su vehículo sea rentado para actividades ilícitas o que sea sub-arrendado generándole mayores costos.      </li>
+      <br><br>
+    
+	
+	
+	 <ul>
+      <li>
+        <h4 align="justify"><b>Descuento </b>Empresas Fleteras</h4><p align="justify"><img src="images/tra.png" alt="" height="160" width="340" align="left"/>Por medio de nuestra plataforma o su celular , puede tener ubicada su mercancía aun cuando esté en camino.<br>
+          Cuando un chofer se detenga a descansar se podrá bloquear la unidad remotamente para evitar su robo.<br>
+          También contamos con localizadores de batería de larga duración que se pueden poner en la caja del tráiler para tener ubicada su mercancía independientemente del tráiler por el que es arrastrado.
+      </li>
+      <br><br></ul>
+	
+		 <li>
+        <h4><b>Descuento </b>Flotilla Empresarial</h4>
+        <p align="justify"><img src="images/flota.png" alt="" height="150" width="240" align="left"/>Tenga el control del kilometraje de sus unidades y programe correctamente sus mantenimientos y compra de refacciones.
+Mantenga el control del consumo de combustible de cada vehículo.
+Reduzca sus costos de pólizas de seguro, ya que las aseguradores cuentan con tarifas especiales para las flotillas con sistemas de localización satelital.
+
+Le podemos ofrecer un presupuesto sin compromiso, se sorprenderá !!<a href="mailto:ventas@seguridadmovilgps.com.mx">ventas@seguridadmovilgps.com.mx </a><br />  </li>
+		 <br><br>
+         
+           <h3><b>Caracteristicas del </b> Servicio</h3>
+       
+	   <ul class="list">
+            <li><img src="images/3page-img1.jpg" alt="" /><a href="article.html">Soporte Técnico en Linea</a><br />
+              Nuestros ingenieros están siempre disponibles para resolver cualquier situación que se presente a nuestros clientes</li>
+			  
+			  <li><img src="images/3page-img1.jpg" alt="" /><a href="article.html">Central de Monitoreo</a><br />
+              Contamos con una central de monitoreo que esta siempre alerta en caso de una emergencia brindando la ayuda necesaria al instante .</li>
+			  
+			    <li><img src="images/3page-img1.jpg" alt="" /><a href="article.html">Instalación a domicilio</a><br />
+              La instalación si lo requiere el cliente esta puede ser a domicilio , o en nuestras oficinas .</li>
+			  
+            <li><img src="images/3page-img2.jpg" alt="" /><a href="#">Manuales electrónicos </a><br />
+              Se entregan manuales en español y procedimientos para manejo del equipo y plataforma de rastreo de forma electronica..</li>
+			  
+            <li><img src="images/3page-img3.jpg" alt="" /><a href="#">Capacitacion</a><br />
+              Se capacita al personal de forma presencial en el uso del dispositivo y la plataforma de rastreo en sus oficinas , esta capacitación no tiene ningun costo..</li>
+			  
+            <li><img src="images/3page-img4.jpg" alt="" /><a href="#">Garantias</a><br />
+              La garantia es de por vida.</li>
+</ul>
+         
+         
+         
+         
+         
+		  
+		  <h3><b>Caracteristicas del </b> Equipo</h3>
+          <ul class="list">	  
+		  
+            <li><img src="images/punto.png" alt="" /><a href="article.html">Localizacion</a><br />
+              Podrá monitorear su unidad en tiempo real desde la comodidad de su hogar vía internet desde su telefono celular o computadora...</li>
+            <li><img src="images/punto.png" alt="" /><a href="#">Historia de recorrido</a><br />
+              Consultar el historial de su trayectoria por periodo hasta de 3 meses en plataforma de rastreo ..</li>
+            <li><img src="images/punto.png" alt="" /><a href="#">Apagado de motor y encendido desde su celular</a><br />
+              Inhabilitar el motor de la unidad de manera remota en caso de robo,por medio de un mensaje de texto, teniendo como objetivo que el ladrón abandone la unidad. ..</li>
+            <li><img src="images/punto.png" alt="" /><a href="#">Botón de pánico</a><br />
+              Con el Botón de Pánico al presionarlo usted podrá solicitar el apoyo a los numeros configurados..</li>
+			  <li><img src="images/punto.png" alt="" /><a href="#">Micrófono oculto</a><br />
+              Podra activar y escuchar desde su teléfono celular todo lo que se escucha del lado del conductor...</li>
+			  			  
+          </ul>	  <br><br><br>
+		  
+		
+	   
+	    </div>
+		
+        <div class="col-2">
+          <div class="box2">
+            <div class="border-top">
+              <div class="left-top-corner">
+                <div class="right-top-corner">
+                  <div class="inner">
+                    <h4><b>Ultimas</b>Noticias</h4>
+                    <ul class="news">
+                      <li><a href="#">Abril 10, 2017</a>
+                        <p>Ford Fiesta 2008, recuperada en Tlaxcala.</p>
+                      </li>
+                       <li><a href="#">Febrero 22, 2017</a>
+                        <p>Vehículo recuperado NISSAN Pathfinder 2011, Chiapas,Altamirano.</p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+	    </div>
+		  
+		  
+		  				
+        <div class="col-2">
+          <div class="box2">
+            <div class="border-top">
+              <div class="left-top-corner">
+                <div class="right-top-corner">
+                  <div class="inner">
+                    <h4><b>Promo del</b> Mes</h4>
+                    <ul class="news">
+                      <li><a href="#">Abril-Mayo</a>
+                        <p> En la instalacion de 10 de sus unidades , se le regalara un equipo de computo para que arme su propio centro de monitoreo. </p>
+                      </li>
+                      
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  
+		  
+		  
+          <div class="box3">
+            <div class="right-bot-corner">
+              <div class="left-bot-corner">
+                <div class="inner">
+                  <h4><b></b> </h4>
+				  
+				  
+                    
+				  
+				  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+   
+  
+  
+  <div id="footer">
+    <div class="footer-nav">
+      <div class="left">
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Nosotros</a></li>
+          <li><a href="#">Servicio</a></li>
+          <li><a href="#">Contacto</a></li>
+          <li class="last"><a href="#">Plataforma</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footerlink">
+      <p class="lf">Copyright &copy; 2018 <a href="#">Seguridad móvil GPS</a> - All Rights Reserved</p>
+      <div style="clear:both;"></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript"> Cufon.now(); </script>
+<!-- END PAGE SOURCE -->
+</body>
+</html>
